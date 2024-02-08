@@ -6,9 +6,9 @@
 
 | Layer | Dataset |
 | ------------- | ------------- |
-| Pseudorandom numbers generated in the **1st layer**  | 🔗 Github url  |
-| Pseudorandom numbers generated in the **2nd layer**  | 🔗 Github url  |
-| Pseudorandom numbers generated in the **3rd layer**  | 🔗 Github url  |
+| Pseudorandom numbers generated in the **1st layer**  | 🔗 [1st part](https://github.com/ergoncugler/pseudorandom/blob/main/df_1st_layer_part_1.xlsx), 🔗 [2nd part](https://github.com/ergoncugler/pseudorandom/blob/main/df_1st_layer_part_2.xlsx), 🔗 [3rd part](https://github.com/ergoncugler/pseudorandom/blob/main/df_1st_layer_part_3.xlsx) and 🔗 [4th part](https://github.com/ergoncugler/pseudorandom/blob/main/df_1st_layer_part_4.xlsx) |
+| Pseudorandom numbers generated in the **2nd layer**  | 🔗 [All parts](https://github.com/ergoncugler/pseudorandom/blob/main/df_2nd_layer.xlsx) [a single excel file] |
+| Pseudorandom numbers generated in the **3rd layer**  | 🔗 [All parts](https://github.com/ergoncugler/pseudorandom/blob/main/df_3rd_layer.xlsx) [a single excel file] |
 
 ## About the code behind
 
