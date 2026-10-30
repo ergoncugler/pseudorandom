@@ -94,7 +94,7 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 
 ### How to Cite it:
 
-**SILVA, Ergon Cugler de Moraes. Exploring ‘pseudorandom’ value addition operations in datasets: A layered approach to escape from normal-Gaussian patterns. (feb) 2024. Avaliable at: <a>https://github.com/ergoncugler/pseudorandom/<a>.**
+**SILVA, Ergon Cugler de Moraes. Exploring ‘pseudorandom’ value addition operations in datasets: A layered approach to escape from normal-Gaussian patterns. (feb) 2024. Available at: <a>https://github.com/ergoncugler/pseudorandom/<a>.**
 
 ___
 
